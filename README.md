@@ -1,6 +1,6 @@
 # AIDS-Classification-using-Neural-Network-and-Deep-Learning
 
-# AIDS Classification using Neural Networks and Deep Learning is a topic that would typically involve using machine learning and deep learning techniques to classify or predict the presence of AIDS based on various biomedical data. Here's a brief overview of how such a system might be structured:
+AIDS Classification using Neural Networks and Deep Learning is a topic that would typically involve using machine learning and deep learning techniques to classify or predict the presence of AIDS based on various biomedical data. Here's a brief overview of how such a system might be structured:
 **
 1. Data Collection and Preprocessing:
 Data Sources: Gather data from medical records, laboratory tests, imaging, or even genetic data.
